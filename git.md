@@ -10,5 +10,5 @@ git commit -a -m "Description"
 ## Перемещение между сохранениями
 Команда git checkout __
 ## Журнал изменений
-
+Команда git log
 ## Ветки git
