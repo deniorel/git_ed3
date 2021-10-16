@@ -13,9 +13,5 @@ git commit -a -m "Description"
 Команда git log
 ## Ветки git
 Команда git branch
-<<<<<<< HEAD
 git branch -v - список веток с commit
-=======
-git branch new_name
->>>>>>> first
 git checkout - переход на нужную ветку
