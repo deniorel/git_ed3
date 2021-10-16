@@ -12,3 +12,6 @@ git commit -a -m "Description"
 ## Журнал изменений
 Команда git log
 ## Ветки git
+Команда git branch
+git branch -v - список веток с commit
+git checkout - переход на нужную ветку
