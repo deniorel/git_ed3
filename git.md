@@ -15,3 +15,5 @@ git commit -a -m "Description"
 Команда git branch
 git branch new_name
 git checkout - переход на нужную ветку
+## Слияние веток
+Команда git merge
