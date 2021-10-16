@@ -15,3 +15,7 @@ git commit -a -m "Description"
 Команда git branch
 git branch -v - список веток с commit
 git checkout - переход на нужную ветку
+git branch new_name
+git checkout - переход на нужную ветку
+## Слияние веток
+Команда git merge
