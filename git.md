@@ -12,10 +12,16 @@ git commit -a -m "Description"
 ## Журнал изменений
 Команда git log
 ## Ветки git
-Команда git branch
+Ветки в Git можно создовать!
+
+Команда git branch <название ветки>. <Название ветки> должно быть уникальным
+
 git branch -v - список веток с commit
+
 git checkout - переход на нужную ветку
+
 git branch new_name
+
 git checkout - переход на нужную ветку
 ## Слияние веток
 Команда git merge
